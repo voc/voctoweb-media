@@ -1,0 +1,12 @@
+--2019-01-25 00:37:12--  https://www.darc.de/fileadmin/filemounts/_processed_/f/9/csm_Banner_2018_02_842840048a.png
+Resolving www.darc.de (www.darc.de)... 85.13.131.248
+Connecting to www.darc.de (www.darc.de)|85.13.131.248|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 53178 (52K) [image/png]
+Saving to: ‘csm_Banner_2018_02_842840048a.png’
+
+     0K .......... .......... .......... .......... .......... 96% 1006K 0s
+    50K .                                                     100% 3684G=0,05s
+
+2019-01-25 00:37:12 (1,02 MB/s) - ‘csm_Banner_2018_02_842840048a.png’ saved [53178/53178]
+
